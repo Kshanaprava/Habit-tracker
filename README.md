@@ -17,7 +17,7 @@ Habit Tracker is a web application that helps you keep track of your daily habit
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/habit-tracker.git
+git clone https://github.com/Kshanaprava/habit-tracker.git
 ```
 
 2. Navigate to the project directory:
@@ -52,10 +52,6 @@ npm start
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request. For major changes, please discuss them first in the "Issues" section.
 
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
 ## Acknowledgements
 
 - [Font Awesome](https://fontawesome.com/) for providing awesome icons.
@@ -63,6 +59,6 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Contact
 
-For any inquiries or questions, please contact [your-name](mailto:kshanapravaj@gmail.com).
+For any inquiries or questions, please contact [kahanaprava jena](mailto:kshanapravaj@gmail.com).
 
 ```
